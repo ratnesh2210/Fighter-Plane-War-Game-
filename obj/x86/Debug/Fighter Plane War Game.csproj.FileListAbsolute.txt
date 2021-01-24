@@ -1,0 +1,8 @@
+E:\SEM 4\AWT\Fighter Plane War Game\Fighter Plane War Game\bin\Debug\Fighter Plane War Game.exe
+E:\SEM 4\AWT\Fighter Plane War Game\Fighter Plane War Game\bin\Debug\Fighter Plane War Game.pdb
+E:\SEM 4\AWT\Fighter Plane War Game\Fighter Plane War Game\obj\x86\Debug\Fighter_Plane_War_Game.Form1.resources
+E:\SEM 4\AWT\Fighter Plane War Game\Fighter Plane War Game\obj\x86\Debug\Fighter_Plane_War_Game.Properties.Resources.resources
+E:\SEM 4\AWT\Fighter Plane War Game\Fighter Plane War Game\obj\x86\Debug\Fighter Plane War Game.csproj.GenerateResource.Cache
+E:\SEM 4\AWT\Fighter Plane War Game\Fighter Plane War Game\obj\x86\Debug\Fighter Plane War Game.exe
+E:\SEM 4\AWT\Fighter Plane War Game\Fighter Plane War Game\obj\x86\Debug\Fighter Plane War Game.pdb
+E:\SEM 4\AWT\Fighter Plane War Game\Fighter Plane War Game\obj\x86\Debug\Fighter Plane War Game.csprojResolveAssemblyReference.cache
